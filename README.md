@@ -24,6 +24,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/don_spambot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/don_spambot"><img src="https://graph.org/file/20231231_115058_043.jpg/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
